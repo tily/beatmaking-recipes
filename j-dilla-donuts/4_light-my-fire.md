@@ -7,7 +7,7 @@
 * A) Africa "Light My Fire" からのサンプル
     * 1 サビ目
         * [AD-1] 4 小節目: `Light that play now, woman, now`
-        * [AD-1`]: [AD-1] + [AD-4]
+        * [AD-1`]: [AD-1 の 最初の 3 拍] + [AD-4 の最後の 1 拍]
         * [AA-1] 6 小節目〜7 小節目: `Fire`
     * 2 サビ目
         * [AD-2] 2 小節目: `Light my fire now, woman, now`
