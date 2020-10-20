@@ -5,21 +5,21 @@
 
 * A) Samples from Africa "Light My Fire"
     * 1st Hook
-        * [AD-1] 4 小節目: `Light that play now, woman, now`
+        * [AD-1] 4th Bar: `Light that play now, woman, now`
         * [AD-1`]: [AD-1] + [AD-4]
         * [AA-1] 6 小節目〜7 小節目: `Fire`
     * 2nd Hook
-        * [AD-2] 2 小節目: `Light my fire now, woman, now`
-    * Right Before 3rd Hook
+        * [AD-2] 2nd Bar: `Light my fire now, woman, now`
+    * Right before 3rd Hook
         * [AB-1] `Yeah`
     * 3rd Hook
-        * [AC-1] 1 小節目: `C'mon baby, light my fire` (コーラス)
-        * [AD-3] 2 小節目: `Light my fire now, baby`
-        * [AC-2] 5 小節目: `Try to set the night on fire` (コーラス)
-        * [AD-4] 8 小節目: `Light my fire, baby`
-* B) Drum Timbres
-    * [B-1] キック
-    * [B-2] スネア
+        * [AC-1] 1st Bar: `C'mon baby, light my fire` (コーラス)
+        * [AD-3] 2nd Bar: `Light my fire now, baby`
+        * [AC-2] 5th Bar: `Try to set the night on fire` (コーラス)
+        * [AD-4] 8th Bar: `Light my fire, baby`
+* B) Drum timbres
+    * [B-1] Kick
+    * [B-2] Hi-hat
 * C) Samples from James Brown "My Thang"
     * Intro
         * [C-1] `Yeah`
@@ -29,7 +29,7 @@
 
 ### 作り方
 
-1. A のサンプル群を配置
+1. Deploy A samples
     ```
     ## Part 1
     | [AA-1] |
@@ -41,7 +41,7 @@
     | [AC-2] | [AD-2]  | [AC-1] | [AD-3] |
     | [AC-1] |
     ```
-2. `1.` に B のキック & スネアを重ねる
+2. Overdub B Drums on `1.`
     ```
     [B-1] | o--- ---- o-o- --o- | o--- ---- ---- ---- | o--- --o- o--- ---- | o--- ---- ---- ---- |
     [B-2] | ---- o--- ---- o--- | ---- o--- ---- o--- | ---- o--- ---- o--- | ---- o--- ---- o--- |
@@ -55,7 +55,7 @@
     [B-1] | o--- ---- o-o- --o- |
     [B-2] | ---- o--- ---- o--- |
     ```
-3. `2.` に C の声ネタを重ねる
+3. Overdub C vocal stubs on `2.`
     ```
     | [C-1] | ---- | [C-2] | ---- |
     | [C-3] | ---- | [C-4] | ---- |
