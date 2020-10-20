@@ -1,27 +1,27 @@
 
-## レシピ
+## Recipe
 
-### 材料
+### Ingredients
 
-* A) Africa "Light My Fire" からのサンプル
-    * 1 サビ目
+* A) Samples from Africa "Light My Fire"
+    * 1st Hook
         * [AD-1] 4 小節目: `Light that play now, woman, now`
         * [AD-1`]: [AD-1] + [AD-4]
         * [AA-1] 6 小節目〜7 小節目: `Fire`
-    * 2 サビ目
+    * 2nd Hook
         * [AD-2] 2 小節目: `Light my fire now, woman, now`
-    * 3 サビ目の直前
+    * Right Before 3rd Hook
         * [AB-1] `Yeah`
-    * 3 サビ目
+    * 3rd Hook
         * [AC-1] 1 小節目: `C'mon baby, light my fire` (コーラス)
         * [AD-3] 2 小節目: `Light my fire now, baby`
         * [AC-2] 5 小節目: `Try to set the night on fire` (コーラス)
         * [AD-4] 8 小節目: `Light my fire, baby`
-* B) ドラムス
+* B) Drum Timbres
     * [B-1] キック
     * [B-2] スネア
-* C) James Brown "My Thang" からのサンプル
-    * イントロ
+* C) Samples from James Brown "My Thang"
+    * Intro
         * [C-1] `Yeah`
         * [C-2] `Tell us about it`
         * [C-3] `If you want to get down with a bird`
