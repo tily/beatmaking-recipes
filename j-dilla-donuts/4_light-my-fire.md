@@ -11,7 +11,7 @@
         * [AA-1] 6 小節目の最後の 1 拍〜7 小節目の最初の 3 拍: `Fire`
     * 2 サビ目
         * [AD-2] 2 小節目: `Light my fire now, woman, now`
-    * 3 サビ目の直前
+    * 3 サビ目の直前 (の 1 小節)
         * [AB-1] `Yeah` (1.5 拍分)
     * 3 サビ目
         * [AC-1] 1 小節目: `C'mon baby, light my fire` (コーラス)
