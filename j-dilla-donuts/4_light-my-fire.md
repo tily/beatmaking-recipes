@@ -12,7 +12,7 @@
     * 2 サビ目
         * [AD-2] 2 小節目: `Light my fire now, woman, now`
     * 3 サビ目の直前
-        * [AB-1] `Yeah` (3 拍分)
+        * [AB-1] `Yeah` (1.5 拍分)
     * 3 サビ目
         * [AC-1] 1 小節目: `C'mon baby, light my fire` (コーラス)
         * [AD-3] 2 小節目: `Light my fire now, baby`
