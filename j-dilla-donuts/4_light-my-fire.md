@@ -13,9 +13,9 @@
     * Right before 3rd Hook
         * [AB-1] `Yeah`
     * 3rd Hook
-        * [AC-1] 1st Bar: `C'mon baby, light my fire` (コーラス)
+        * [AC-1] 1st Bar: `C'mon baby, light my fire` (Chorus)
         * [AD-3] 2nd Bar: `Light my fire now, baby`
-        * [AC-2] 5th Bar: `Try to set the night on fire` (コーラス)
+        * [AC-2] 5th Bar: `Try to set the night on fire` (Chorus)
         * [AD-4] 8th Bar: `Light my fire, baby`
 * B) Drum timbres
     * [B-1] Kick
@@ -27,7 +27,7 @@
         * [C-3] `If you want to get down with a bird`
         * [C-4] `This is the way you do it / Walk up and rap to her`
 
-### 作り方
+### Method
 
 1. Deploy A samples
     ```
@@ -63,12 +63,12 @@
     | [C-2] |
     ```
     
-## メモ
+## Memo
 
-* ビートでは "C'mon" というサンプルが 2 箇所ほど入ってるっぽいが元ネタの特定と再現ができていない
-* あとからくっつける "Baby" のサンプル箇所 (`[AD-1']`) はたぶん間違ってそう
+* What's the samples that says `C'mon` in the original track?
+* [AD-4] is maybe wrong
     
-## 参考資料
+## Reference
 
 * [J Dilla's 'Light My Fire' sample of Africa's 'Light My Fire' \| WhoSampled](https://www.whosampled.com/sample/20961/J-Dilla-Light-My-Fire-Africa-Light-My-Fire/)
 * [J Dilla's 'Light My Fire' sample of James Brown's 'My Thang' \| WhoSampled](https://www.whosampled.com/sample/62984/J-Dilla-Light-My-Fire-James-Brown-My-Thang/)
