@@ -1,3 +1,24 @@
+# 1. Donuts (Outro) (From J Dilla "Donuts)
+
+## レシピ
+
+### 材料
+
+* A) Gary Davis "Stay With Me"
+     * [A-1] イントロの
+     * [A-2] 
+     * [A-3] 04:01〜 1 小節 (2 拍目裏からギターが入るところ)
+* B) Skillz feat. Ras Kass "Six Figures"
+     * [B-1] "You a dealer?"
+     * [B-2] "Hit up Jake?"
+
+### 作り方
+
+```
+| [A-3] + [A-2 ~ | ~ A-2] [A-1'] | [A-1] | [A-1] | ??? |
+```
+
+
 ## メモ
 
 * BPM 97 ぐらい
