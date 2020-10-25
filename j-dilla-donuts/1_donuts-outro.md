@@ -49,6 +49,4 @@
     * [Skillz \- Six Figures \(2003, Vinyl\) \| Discogs](https://www.discogs.com/Skillz-Six-Figures/release/2021778)
     * [Skillz Ft\. Ras Kass \- Six Figures Acapella To Download For FREE From Acapellas4U \- Trusted By SuperStar Djs](https://www.acapellas4u.co.uk/download/2245-skillz_-_six_figures_ftras_kass_acapella/)
     * [Skillz – Six Figures Lyrics \| Genius Lyrics](https://genius.com/Skillz-six-figures-lyrics)
-        * "You a dealer?"
-        * "Hit up Jake?"
 * [J Dilla \- Track 15 \(14 Minute Version\) \- YouTube](https://www.youtube.com/watch?v=1upLtkQ-P-k)
