@@ -67,7 +67,7 @@
 ## メモ
 
 * What's the samples that says `C'mon` in the original track?
-* [AD-4] is maybe wrong
+* [AD-4] たぶんまちがってる、1 サビ目からとったほうがいい
     
 ## 参考資料
 
