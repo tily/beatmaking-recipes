@@ -6,8 +6,8 @@
 
 * A) Gary Davis "Stay With Me"
      * BPM 74 -> 97 に変更
-     * [A-1] イントロの
-     * [A-2] 
+     * [A-1] イントロの 1 小節
+     * [A-2] 00:45〜 `I don't care ...`　のくだり (この前の小節の 4 拍目〜この小節の 1.5 拍目まで)
      * [A-3] 04:01〜 1 小節 (2 拍目裏からギターが入るところ)
 * B) Skillz feat. Ras Kass "Six Figures"
      * [B-1] "You a dealer?"
