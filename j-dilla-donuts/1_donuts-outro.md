@@ -5,6 +5,7 @@
 ### 材料
 
 * A) Gary Davis "Stay With Me"
+     * BPM 74 -> 97 に変更
      * [A-1] イントロの
      * [A-2] 
      * [A-3] 04:01〜 1 小節 (2 拍目裏からギターが入るところ)
@@ -21,9 +22,7 @@
 
 ## メモ
 
-* BPM 97 ぐらい
-* "Stay with Me" は BPM 74 ぐらいなので、だいぶスピードアップする
-* 何度か聴いててやっと分かったけど、"Not Available"の 16 秒ぐらいのところからはじまるストリングスについて、ギターとベースを除去した状態で使ってるということなのね
+* たぶん SHuggie Otis "Not Available" は使われてないように思う
 
 ## 参考資料
 
@@ -35,6 +34,7 @@
     * [J Dilla's 'Donuts \(Outro\)' sample of Gary Davis's 'Stay With Me' \| WhoSampled](https://www.whosampled.com/sample/274889/J-Dilla-Donuts-(Outro)-Gary-Davis-Stay-With-Me/)
         * [Gary Davis \- Stay With Me \- YouTube](https://www.youtube.com/watch?v=GfUP9aX7N04&feature=emb_title)
             * "Dilla didnt use this sample he used Gary Davis-Stay With Me...I chopped it up and pitched it to make sure"
+            * YouTube にある音源としてはこちらのほうが音質がよい -> [Stay With Me \- YouTube](https://www.youtube.com/watch?v=JbjStQ5zRYE)
 * [How to "Re\-Produce" or imitate J Dilla\. Part 1 "Donuts \(Outro\)" \- Gearslutz](https://www.gearslutz.com/board/rap-hip-hop-engineering-and-production/618511-how-quot-re-produce-quot-imitate-j-dilla-part-1-quot-donuts-outro-quot.html)
     > Hi There  
     > well I've pretty much managed to isolate the strings from the shuggie otis sample. They don't sound exactly the same but I'm hoping they will when they sit within the whole mix.  
